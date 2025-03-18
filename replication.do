@@ -1,11 +1,11 @@
 /*
-NOTE THAT THESE FILES REPLICATE ONLY THE TABLES AND GRAPHS OF THE MAIN PAPER. RANDOM NOISE HAS BEEN ADDED TO PARTICIPANT RESPONSES SO NO-ONE SCOOPS US! We plan on making the raw data available when we no longer risk being scooped.
+NOTE THAT THESE FILES REPLICATE ONLY THE TABLES AND GRAPHS OF THE MAIN PAPER. RANDOM NOISE HAS BEEN ADDED TO PARTICIPANT RESPONSES! We plan on making the raw data available when we no longer risk being scooped.
 
 Replication file for:
 Does Public Redistribution Crowd Out Private Transfers? Evidence from Four Countries
 Cameron, Gangadharan, Maitra, Santos, Vecci
 
-Regressions are done in Stata, then, since we're interested in non-standard outputs, these outputs are then fed as text into python, where they're rearranged to produce latex tables. #stataisabitch.
+Regressions are done in Stata, then, since we're interested in non-standard outputs, these outputs are then fed as text into python, where they're rearranged to produce latex tables.
 
 
 
